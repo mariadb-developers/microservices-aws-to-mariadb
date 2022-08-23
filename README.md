@@ -1,11 +1,21 @@
 # microservices-aws-to-mariadb
 How to create lambda functions that integrate with a MariaDB SkySQL Xpand database
 
-# CONTENT TBD
+# The video for this demo is located at ... TBD
+
+# Navigate to this page, which accompanies the demo
+
+https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/
+
+For testing, use the following JSON object:
+
+{
+  "serialNumber":"777",
+  "heartRate":"180"
+}
 
 ## Helpful Resources <a name="helpful-resources"></a>
 
-Webinar: [Creating Microservices with .NET 6, Entity Framework and MariaDB](https://go.mariadb.com/22Q1-WBN-OSSG-GLBL-Microservices-.Net-Entity-Framework-2021-12-21_Registration-LP.html)
 
 ## Support and Contribution <a name="support-contribution"></a>
 
