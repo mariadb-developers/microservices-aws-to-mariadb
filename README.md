@@ -7,6 +7,13 @@ How to create lambda functions that integrate with a MariaDB SkySQL Xpand databa
 
 https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/
 
+# Explanation of Files
+
+index.html is the webapp, which can be used in Module 1 - Create a Web App
+lambdaPatientMonitor1.py is the python lambda function
+patientSchema.sql can be used from a mariadb client, connecting to SkySQL, for creating the database schema
+insertHeartData1.sql can be used for a mariadb client, connecting to SkySQL, for inserting IOT records from a heart monitor
+
 For testing, use the following JSON object:
 
 {
