@@ -1,7 +1,7 @@
 # microservices-aws-to-mariadb
 How to create lambda functions that integrate with a MariaDB SkySQL Xpand database
 
-# The video for this demo is located at ... TBD
+# The video for this demo is located at ... https://www.youtube.com/watch?v=sXg10JP6q4U 
 
 # Navigate to this page, which accompanies the demo
 
